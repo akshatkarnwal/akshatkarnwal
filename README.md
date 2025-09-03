@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 Programming Languages: C, C++, Kotlin, Java<br><br>📚 Libraries/Frameworks: Firebase, Room-Database, Glide, Dexter, JSON, GSON, Retrofit<br><br>🛠️ Tools/Platforms: Android Studio, VsCode, Linux, Git/GitHub<br><br>💾 Databases: Firestore<br><br>🧠 Skills: Beyond app development, I have a solid understanding of Data Structures and Algorithms, Operating Systems, Database Management Systems (DBMS), and Networking.<br><br>👨‍💻 Projects: Whether it's harnessing the power of Firebase for real-time applications, optimizing database interactions with Room-Database, or implementing robust networking solutions with Retrofit, my repositories reflect my commitment to clean code and best practices.</p>
+<p align="left">🚀 Programming Languages: C, C++, Kotlin, Java<br><br>📚 Libraries/Frameworks: Firebase, Room-Database, Glide, Dexter, JSON, GSON, Retrofit, Jetpack-Compose <br><br>🛠️ Tools/Platforms: Android Studio, VsCode, Linux, Git/GitHub<br><br>💾 Databases: Firestore<br><br>🧠 Skills: Beyond app development, I have a solid understanding of Data Structures and Algorithms, Operating Systems, Database Management Systems (DBMS), and Networking.<br><br>👨‍💻 Projects: Whether it's harnessing the power of Firebase for real-time applications, optimizing database interactions with Room-Database, or implementing robust networking solutions with Retrofit, my repositories reflect my commitment to clean code and best practices.</p>
 
 ###
 
